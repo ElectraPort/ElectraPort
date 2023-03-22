@@ -1,5 +1,10 @@
 ### Hi there 👋
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectraPort&theme=blue-green)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ElectraPort&show_icons=true)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ElectraPort)
 <!--
 **ElectraPort/ElectraPort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
